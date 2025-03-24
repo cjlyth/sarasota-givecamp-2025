@@ -6,7 +6,7 @@ See the [event cookbook](https://givecamp.org/get-involved/cookbook/) for more d
 | Role | Name | Contact Info | Responsibilities |
 |------|------|--------------|-----------------|
 | Event Leaders | Chris, Neirda | | Spokesperson, overall accountability, approve spending |
-| Participant Coordinators | Rosalynn, Estrfania | | Recruit developers, designers, assign to teams |
+| Participant Coordinators | Rosalynn, Estefania | | Recruit developers, designers, assign to teams |
 | Charity Coordinators | Neirda | | Identify and qualify charities |
 | Venue Coordinators | Neil, Liz | | Select and manage event location |
 | Analysts | Chris, Estefania | | Pre-qualify charities, communicate requirements |
