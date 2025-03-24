@@ -21,6 +21,15 @@ See the [event cookbook](https://givecamp.org/get-involved/cookbook/) for more d
 | Refrigeration | | [ ] Confirmed |
 | Power Outlets | | [ ] Verified |
 
+
+## Content updates
+| Content Item | Intended Audience | Intended Purpose | Link | 
+| ------------ | ----------------- | -----------------| ---- |
+| Opening Presentation | Attendees | Overview of the event, schedule, venue details | https://docs.google.com/presentation/d/1oxGfmov1HLSxwYVWwuutogiz72VRVGmt/edit?usp=drive_link&ouid=111573168013495714395&rtpof=true&sd=true |
+| Closing Presentation | Attendees | Overview of the event, and results | https://docs.google.com/presentation/d/1C1460otc-upD02n_L9CPsjKrzwKURQkt/edit?usp=drive_link&ouid=111573168013495714395&rtpof=true&sd=true |
+| Project template | Project teams | Structure to help teams work | https://docs.google.com/document/d/12_DitLYWgrt8byOfery3RO_K7DpC1OvY/edit?usp=drive_link&ouid=111573168013495714395&rtpof=true&sd=true |
+
+
 ## Sponsors Tracking
 | Sponsor | Contribution | Contact | Status |
 |---------|--------------|---------|--------|
