@@ -11,6 +11,12 @@ See the [event cookbook](https://givecamp.org/get-involved/cookbook/) for more d
 | Venue Coordinators | Neil, Liz | | Select and manage event location |
 | Analysts | Chris, Estefania | | Pre-qualify charities, communicate requirements |
 
+## Planning Schedule
+
+The event leadership team will meet every other week online using [google meet](). 
+
+TODO: add google meet info here
+
 ## Venue Details
 | Criteria | Details | Status |
 |----------|----------|--------|
