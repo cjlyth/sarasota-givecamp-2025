@@ -1,13 +1,15 @@
 # GiveCamp Event Planning Spreadsheet
 
+See the [event cookbook](https://givecamp.org/get-involved/cookbook/) for more details on this plan.
+
 ## Event Leadership Team
 | Role | Name | Contact Info | Responsibilities |
 |------|------|--------------|-----------------|
-| Event Leader | | | Spokesperson, overall accountability, approve spending |
-| Participant Coordinator | | | Recruit developers, designers, assign to teams |
-| Charity Coordinator | | | Identify and qualify charities |
-| Venue Coordinator | | | Select and manage event location |
-| Analyst | | | Pre-qualify charities, communicate requirements |
+| Event Leaders | Chris, Neirda | | Spokesperson, overall accountability, approve spending |
+| Participant Coordinators | Rosalynn, Estrfania | | Recruit developers, designers, assign to teams |
+| Charity Coordinators | Neirda | | Identify and qualify charities |
+| Venue Coordinators | Neil, Liz | | Select and manage event location |
+| Analysts | Chris, Estefania | | Pre-qualify charities, communicate requirements |
 
 ## Venue Details
 | Criteria | Details | Status |
@@ -26,6 +28,7 @@
 | T-Shirts | | | [ ] Confirmed |
 | Meals | | | [ ] Confirmed |
 | Technology Sponsors | | | [ ] Confirmed |
+| Swag Sponsors (stickers, goodie bags, trophies) | | | [ ] Confirmed |
 
 ## Charity Recruitment
 | Charity Name | Contact | Requirements | Team Assigned | Status |
@@ -37,13 +40,14 @@
 | Item | Quantity | Acquired | Notes |
 |------|----------|----------|-------|
 | Wireless Network | | [ ] | Bandwidth tested |
-| Source Control (TFS) | | [ ] | Hosted for each charity |
-| Web Hosting | | [ ] | DiscountASP.NET or alternative |
+| Source Control (git) | | [ ] | Hosted for each charity |
+| Web Hosting | | [ ] | AWS or alternative |
 | CMS Installations | | [ ] | WordPress, Drupal, etc. |
 | Power Strips | | [ ] | |
 | Printers | | [ ] | With extra ink |
 | Whiteboards | | [ ] | |
 | Web Cams | | [ ] | For live streaming |
+| Paper pads, pens & pencils  | | [ ] | |
 
 ## Timeline Tracking
 ### 6 Months Before Event
